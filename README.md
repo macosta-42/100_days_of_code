@@ -1,6 +1,6 @@
 # 100_days_of_code
 
-# Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
+## Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
 Python 3 - the latest version of Python
 
@@ -76,7 +76,7 @@ Deployment with GitHub Pages, Heroku and GUnicorn
 
 and much much more!
 
-# Portfolio:
+## Portfolio:
 
 Blackjack
 
