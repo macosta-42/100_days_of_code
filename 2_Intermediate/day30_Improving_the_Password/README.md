@@ -4,4 +4,4 @@
 - Handles Exceptions
 - New search functionality
 
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/2_Intermediate/day29_Password_Manager_GUI/Screenshot%202021-01-13%20at%2013.17.17.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/2_Intermediate/day30_Improving_the_Password/Screenshot%202021-01-14%20at%2011.40.33.png?raw=true)
