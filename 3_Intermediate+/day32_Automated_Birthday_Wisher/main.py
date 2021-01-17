@@ -27,5 +27,5 @@ if today in birthdays_dict:
             connection.sendmail(
                 from_addr=EMAIL_FROM,
                 to_addrs=EMAIL_TO,
-                msg=F"Subject:Happy Birthday\n\n{new_letter}"
+                msg=f"Subject:Happy Birthday\n\n{new_letter}"
             )

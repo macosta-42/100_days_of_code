@@ -32,11 +32,11 @@ if day_of_week == 0:
 # import smtplib
 
 # # Change the receiver email here
-# email_to = "macosta.devnet@yahoo.com"
+# email_to = ""
 #
 # # Change your email and password here
-# email_from = "macosta.devnet@gmail.com"
-# password = "iDMlJ00IXgS4qo#8vMPI@x!^"
+# email_from = ""
+# password = ""
 #
 # with smtplib.SMTP("smtp.gmail.com") as connection:
 #     connection.starttls()
