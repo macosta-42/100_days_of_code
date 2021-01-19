@@ -5,4 +5,4 @@
 - If rain is detected, use Twilio API to send an alert by SMS
 - Can use environment variables for more secure usage of API keys
 
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day34_GUI_Quiz_App/Screenshot%202021-01-18%20at%2011.06.28.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day35_Rain_Alert_App/139877284_323676642270685_949256212342430299_n.jpg?raw=true)
