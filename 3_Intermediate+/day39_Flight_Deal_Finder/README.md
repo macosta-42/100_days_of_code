@@ -6,6 +6,6 @@
 - If the price is lower than the lowest price listed in the Google Sheet then send a message on facebook messenger with the fbchat lib
 - The Facebook message include the departure airport IATA code, destination airport IATA code, departure city, destination city, flight price and flight dates. e.g.
 
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day38_Workout_Tracking_App/Screenshot%202021-01-25%20at%2014.24.54.png?raw=true)
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day38_Workout_Tracking_App/Screenshot%202021-01-25%20at%2014.25.22.png?raw=true)
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day38_Workout_Tracking_App/Screenshot%202021-01-25%20at%2014.25.22.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/143115896_481892969508522_7070926288448072693_n.jpg?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/Screenshot%202021-01-26%20at%2014.56.30.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/Screenshot%202021-01-26%20at%2014.56.54.png?raw=true)
