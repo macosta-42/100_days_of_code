@@ -21,6 +21,6 @@
     and the Google flight link for the user to book the flights by clicking on the link
   
 
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/143115896_481892969508522_7070926288448072693_n.jpg?raw=true)
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/Screenshot%202021-01-26%20at%2014.56.30.png?raw=true)
-![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day39_Flight_Deal_Finder/Screenshot%202021-01-26%20at%2014.56.54.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day40_Flight_Club/Screenshot%202021-01-27%20at%2012.17.27.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day40_Flight_Club/Screenshot%202021-01-26%20at%2014.56.30.png?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/day40_Flight_Club/Screenshot%202021-01-27%20at%2012.18.14.png?raw=true)
