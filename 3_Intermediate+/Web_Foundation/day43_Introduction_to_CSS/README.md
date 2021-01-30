@@ -11,4 +11,4 @@
 - CSS classes vs IDs
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/3_Intermediate%2B/Web_Foundation/day43_Introduction_to_CSS/Screenshot%202021-01-30%20at%2016.21.38.png?raw=true)
