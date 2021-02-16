@@ -1,0 +1,157 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: 900;
+}
+
+p {
+  color: #8F8F8F;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.colored-section {
+  background-color: #FF4C68;
+  color: #FFF;
+}
+
+.white-section {
+  background-color: #FFF;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.features {
+  position: relative;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.icon {
+  color: #EF8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FF4C68;
+}
+
+.mobile-img {
+  width: 17%;
+  right: 25%;
+  transform:rotate(25deg);
+  -ms-transform:rotate(25deg); /* IE 9 */
+  -moz-transform:rotate(25deg); /* Firefox */
+  -webkit-transform:rotate(25deg); /* Safari and Chrome */
+  -o-transform:rotate(25deg); /* Opera */
+  position: absolute;
+}
+
+@media (max-width: 1028px) {
+  .sec1 {
+    text-align: center;
+  }
+
+  .mobile-img {
+    width: 50%;
+    position: static;
+    transform:rotate(0deg);
+    -ms-transform:rotate(0deg); /* IE 9 */
+    -moz-transform:rotate(0deg); /* Firefox */
+    -webkit-transform:rotate(0deg); /* Safari and Chrome */
+    -o-transform:rotate(0deg); /* Opera */
+  }
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;
+}
+
+.pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.sec1 .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+.sec1-title {
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+.section-heading {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.press {
+  background-color: #EF8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.testimonials {
+  background-color: #EF8172;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
