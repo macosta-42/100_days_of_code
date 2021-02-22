@@ -8,4 +8,4 @@
 
 - Flask-Bootstrap Supports WTForms
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day61_Advanced_Forms/screen-app.gif?raw=true)
