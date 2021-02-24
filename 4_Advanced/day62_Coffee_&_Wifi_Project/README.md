@@ -17,8 +17,8 @@
   It appended to the end of the csv file. 
   The data from each field are comma-separated like all the other lines of data in cafe-data.csv
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day62_Coffee_%26_Wifi_Project/screencapture-127-0-0-1-5000-2021-02-24-13_08_22.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day62_Coffee_%26_Wifi_Project/screencapture-127-0-0-1-5000-add-2021-02-24-13_09_10.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day62_Coffee_%26_Wifi_Project/screencapture-127-0-0-1-5000-cafes-2021-02-24-13_08_45.png?raw=true)
