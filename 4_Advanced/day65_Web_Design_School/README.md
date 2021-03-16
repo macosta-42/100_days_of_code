@@ -12,4 +12,8 @@
 - User Experience (UX) Design
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day65_Web_Design_School/1.png?raw=true)
+
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day65_Web_Design_School/2.png?raw=true)
+
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day65_Web_Design_School/3.png?raw=true)
