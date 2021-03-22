@@ -10,4 +10,4 @@
 
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day67_RESTful_Routing/2020-10-10_09-21-39-9275bccc676174341c3716fcf0cf3e08.gif?raw=true)
