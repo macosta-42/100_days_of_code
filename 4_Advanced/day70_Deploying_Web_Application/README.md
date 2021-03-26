@@ -8,5 +8,5 @@
 
 - Setup a WSGI server with gunicorn
 
+- Upgrade SQLite Database to PostgreSQL
 
-![alt text](?raw=true)
