@@ -6,5 +6,7 @@
 
 - Use gunicorn and Heroku to host website
 
+- Setup a WSGI server with gunicorn
+
 
 ![alt text](?raw=true)
