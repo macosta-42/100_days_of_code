@@ -13,4 +13,4 @@
 - Smoothing out Time-Series Data
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day72_Data_Visualisation_with_Matplotlib/myplot.png?raw=true)
