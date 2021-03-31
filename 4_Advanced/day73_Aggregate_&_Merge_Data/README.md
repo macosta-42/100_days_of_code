@@ -13,9 +13,8 @@
 - How to Merge DataFrames and Create Bar Charts
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day73_Aggregate_%26_Merge_Data/myplot.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day73_Aggregate_%26_Merge_Data/myscatter.png?raw=true)
 
-![alt text](?raw=true)
-
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day73_Aggregate_%26_Merge_Data/mybar.png?raw=true)
