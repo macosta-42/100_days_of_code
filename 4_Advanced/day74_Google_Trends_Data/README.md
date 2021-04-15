@@ -15,10 +15,10 @@
 - Data Visualisation - Unemployment: The Effect of New Data
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day74_Google_Trends_Data/my_plot_1.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day74_Google_Trends_Data/my_plot_2.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day74_Google_Trends_Data/my_plot_3.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day74_Google_Trends_Data/my_plot_4.png?raw=true)
