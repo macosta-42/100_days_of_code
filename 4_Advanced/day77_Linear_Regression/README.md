@@ -22,8 +22,8 @@
 - Use scikit-learn to Run Our Own Regression
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day77_Linear_Regression/plot_1.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day77_Linear_Regression/plot_2.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day77_Linear_Regression/plot_3.PNG?raw=true)
