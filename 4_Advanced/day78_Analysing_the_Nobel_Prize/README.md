@@ -19,14 +19,14 @@
 - Unearthing Patterns in the Laureate Age at the Time of the Award
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/plots.gif?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/myplot_1.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/myplot_2.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/myplot_3.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/myplot_4.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day78_Analysing_the_Nobel_Prize/myplot_5.png?raw=true)
