@@ -14,10 +14,10 @@
 
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day79_The_Tragic_Discovery_of_Handwashing/newplot1.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day79_The_Tragic_Discovery_of_Handwashing/newplot2.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day79_The_Tragic_Discovery_of_Handwashing/newplot3.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day79_The_Tragic_Discovery_of_Handwashing/newplot4.png?raw=true)
