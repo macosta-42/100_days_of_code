@@ -22,10 +22,10 @@
 - How to specify your own values for various features and use your model to make a prediction.
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day80_Predict_House_Prices/myplot1.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day80_Predict_House_Prices/myplot2.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day80_Predict_House_Prices/myplot3.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/macosta-42/100_days_of_code/blob/main/4_Advanced/day80_Predict_House_Prices/myplot4.png?raw=true)
