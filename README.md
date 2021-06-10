@@ -1,56 +1,32 @@
 # 100_days_of_code
 
-## Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
-- Python 3 - the latest version of Python
-- PyCharm, Jupyter Notebook, Google Colab
-- Python Scripting and Automation
-- Python Game Development
-- Web Scraping
-- Beautiful Soup
-- Selenium Web Driver
-- Request
-- WTForms
-- Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Scikit learn
-- Seaborn
-- Turtle
-- Python GUI Desktop App Development
-- Tkinter
-- Front-End Web Development
-- HTML 5
-- CSS 3
-- Bootstrap 4
-- Bash Command Line
-- Git, GitHub and Version Control
-- Backend Web Development
-- Flask
-- REST
-- APIs
-- Databases
-- SQL
-- SQLite
-- PostgreSQL
-- Authentication
-- Web Design
-- Deployment with GitHub Pages, Heroku and GUnicorn
-- and much much more!
+| 1_Beginner | 2_Intermediate | 3_Intermediate+ | 4_Advanced | 5_Professional |
+| ---------- | -------------- | --------------- | ---------- | -------------- | 
+| [day1_Band_Name_Generator](/1_Beginner/day1_Band_Name_Generator) | [day15_Coffee_Machine](/2_Intermediate/day15_Coffee_Machine) | [day32_Automated_Birthday_Wisher](/3_Intermediate+/day32_Automated_Birthday_Wisher) | [day59_Blog_Part_2](/4_Advanced/day59_Blog_Part_2) | [day_81_Text_to_Morse_Code_Converter](/5_Professional/day_81_Text_to_Morse_Code_Converter) |
+| [day2_Tip_Calculator](/1_Beginner/day2_Tip_Calculator) | [day16_OOP_Coffee_Machine](/2_Intermediate/day16_OOP_Coffee_Machine) | [day33_ISS_Overhead_Notifier](/3_Intermediate+/day33_ISS_Overhead_Notifier) | [day60_Contact_Form](/4_Advanced/day60_Contact_Form) |
+| [day3_Treasure_Island](/1_Beginner/day3_Treasure_Island) | [day17_OOP_The_Quiz_Project](/2_Intermediate/day17_OOP_The_Quiz_Project) | [day34_GUI_Quiz_App](/3_Intermediate+/day34_GUI_Quiz_App) | [day61_Advanced_Forms](/4_Advanced/day61_Advanced_Forms) | 
+| [day4_Rock_Paper_Scissors](/1_Beginner/day4_Rock_Paper_Scissors) | [day18_The_Hirst_Painting_Project](/2_Intermediate/day18_The_Hirst_Painting_Project) | [day35_Rain_Alert_App](/3_Intermediate+/day35_Rain_Alert_App) | [day62_Coffee_&_Wifi_Project](/4_Advanced/day62_Coffee_&_Wifi_Project) | 
+| [day5_Password_Generator](/1_Beginner/day5_Password_Generator) | [day19_Turtle_Games](/2_Intermediate/day19_Turtle_Games) | [day36_Stock_Trading_News_Alert](/3_Intermediate+/day36_Stock_Trading_News_Alert) | [day63_SQLite](/4_Advanced/day63_SQLite) | 
+| [day6_Escaping_the_Maze](/1_Beginner/day6_Escaping_the_Maze) | [day20_Snake_Game_Part_1](/2_Intermediate/day20_Snake_Game_Part_1) | [day37_Habit_Tracker](/3_Intermediate+/day37_Habit_Tracker) | [day64_My_Top_10_Movies_Website](/4_Advanced/day64_My_Top_10_Movies_Website) |
+| [day7_Hangman](/1_Beginner/day7_Hangman) | [day21_Snake_Game_Part_2](/2_Intermediate/day21_Snake_Game_Part_2) | [day38_Workout_Tracking_App](/3_Intermediate+/day38_Workout_Tracking_App) | [day65_Web_Design_School](/4_Advanced/day65_Web_Design_School) | 
+| [day8_Caesar_Cipher](/1_Beginner/day8_Caesar_Cipher) | [day22_Pong_Arcade_Game](/2_Intermediate/day22_Pong_Arcade_Game) | [day39_Flight_Deal_Finder](/3_Intermediate+/day39_Flight_Deal_Finder) | [day66_RESTful_API](/4_Advanced/day66_RESTful_API) | 
+| [day9_Secret_Auction_Program](/1_Beginner/day9_Secret_Auction_Program) | [day23_Turtle_Crossing_Game](/2_Intermediate/day23_Turtle_Crossing_Game) | [day40_Flight_Club](/3_Intermediate+/day40_Flight_Club) | [day67_RESTful_Routing](/4_Advanced/day67_RESTful_Routing) |
+| [day10_Calculator](/1_Beginner/day10_Calculator) | [day24_Mail_Merge](/2_Intermediate/day24_Mail_Merge) | [day41-44_Web_Foundation](/3_Intermediate+/day41-44_Web_Foundation) | [day68_Authentication_with_Flask](/4_Advanced/day68_Authentication_with_Flask) | 
+| [day11_Blackjack](/1_Beginner/day11_Blackjack) | [day25_U.S._States_Game](/2_Intermediate/day25_U.S._States_Game) | [day45_Web_Scraping_with_Beautiful_Soup](/3_Intermediate+/day45_Web_Scraping_with_Beautiful_Soup) | [day69_Blog_Project_Adding_Users](/4_Advanced/day69_Blog_Project_Adding_Users) | 
+| [day12_Number_Guessing_Game](/1_Beginner/day12_Number_Guessing_Game) | [day26_NATO_Alphabet_Project](/2_Intermediate/day26_NATO_Alphabet_Project) | [day46_Musical_Time_Machine](/3_Intermediate+/day46_Musical_Time_Machine) | [day70_Deploying_Web_Application](/4_Advanced/day70_Deploying_Web_Application) | 
+| [day13_Debugging](/1_Beginner/day13_Debugging) | [day27_Mile_to_Kilometers_Converter](/2_Intermediate/day27_Mile_to_Kilometers_Converter) | [day47_Automated_Amazon_Price_Tracker](/3_Intermediate+/day47_Automated_Amazon_Price_Tracker) | [day71_Data_Exploration_with_Pandas](/4_Advanced/day71_Data_Exploration_with_Pandas) |
+| [day14_Higher_Lower_Game](/1_Beginner/day14_Higher_Lower_Game) | [day28_Pomodoro_App](/2_Intermediate/day28_Pomodoro_App) | [day48_Game_Playing_Bot](/3_Intermediate+/day48_Game_Playing_Bot) | [day72_Data_Visualisation_with_Matplotlib](/4_Advanced/day72_Data_Visualisation_with_Matplotlib) |
+|                                                                | [day29_Password_Manager_GUI](/2_Intermediate/day29_Password_Manager_GUI) | [day49_Automating_Job_Applications_on_LinkedIn](/3_Intermediate+/day49_Automating_Job_Applications_on_LinkedIn) | [day73_Aggregate_&_Merge_Data](/4_Advanced/day73_Aggregate_&_Merge_Data) | 
+|                                                                | [day30_Improving_the_Password](/2_Intermediate/day30_Improving_the_Password) | [day50_Auto_Tinder_Swiping_Bot](/3_Intermediate+/day50_Auto_Tinder_Swiping_Bot) | [day74_Google_Trends_Data](/4_Advanced/day74_Google_Trends_Data) | 
+|                                                                | [day31_Flash_Card_App](/2_Intermediate/day31_Flash_Card_App) | [day51_Internet_Speed_Twitter_Complaint_Bot](/3_Intermediate+/day51_Internet_Speed_Twitter_Complaint_Bot) | [day75_Analysing_the_Android_AppStore](/4_Advanced/day75_Analysing_the_Android_AppStore) | 
+|                                                                |                                                              | [day52_Instagram_Follower_Bot](/3_Intermediate+/day52_Instagram_Follower_Bot) | [day76_Computation_with_NumPy](/4_Advanced/day76_Computation_with_NumPy) | 
+|                                                                |                                                              | [day53_Data_Entry_Job_Automation](/3_Intermediate+/day53_Data_Entry_Job_Automation) | [day77_Linear_Regression](/4_Advanced/day77_Linear_Regression) | 
+|                                                                |                                                              | [day54_Web_Development_with_Flask](/3_Intermediate+/day54_Web_Development_with_Flask) | [day78_Analysing_the_Nobel_Prize](/4_Advanced/day78_Analysing_the_Nobel_Prize) | 
+|                                                                |                                                              | [day55_Higher_Lower_Game](/3_Intermediate+/day55_Higher_Lower_Game) | [day79_The_Tragic_Discovery_of_Handwashing](/4_Advanced/day79_The_Tragic_Discovery_of_Handwashing) | 
+|                                                                |                                                              | [day56_Name_Card_Website](/3_Intermediate+/day56_Name_Card_Website) | [day80_Predict_House_Prices](/4_Advanced/day80_Predict_House_Prices) | 
+|                                                                |                                                              | [day57_Blog_Part_1](/3_Intermediate+/day57_Blog_Part_1) | 
+|                                                                |                                                              | [day58_Bootstrap](/3_Intermediate+/day58_Bootstrap) |
 
-## Portfolio:
 
-- Blackjack
-- Snake Game
-- Pong Game
-- Auto Swipe on Tinder
-- Auto Job Applications on LinkedIn
-- Automate Birthday Emails/SMS
-- Fully Fledged Blog Website
-- Build Your Own Public API
-- Data Science with Google Trends
-- Analysing Lego Datasets
-- Google App Store Analysis
-- and much much more!
+
